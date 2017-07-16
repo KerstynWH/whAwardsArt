@@ -1,6 +1,6 @@
 .containing-page { 
   margin: 10% 10% 2% 10%;
-  padding: 4%;
+  padding: 0%;
   background-color: #eee;
 }
 
@@ -15,6 +15,7 @@ img {
   padding-left: 1px;
   padding-right: 1px;
   padding-bottom: 0.5em;
+  width: 200px;
 }
 
 .photo-container {
